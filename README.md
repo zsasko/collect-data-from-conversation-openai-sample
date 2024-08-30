@@ -1,4 +1,12 @@
-# Source code of article 'Invoking the functions from Chat GPT Model'
+# How to collect data from chat conversation using OpenAI API
+
+This project is sample application that demonstrates amazon product web page scarping using NodeJs.
+
+![](https://cdn-images-1.medium.com/max/800/1*-4OTiVjaQQjTkcFv_70OoQ.png)
+
+It's a source code for the following article on the medium:
+
+- https://medium.com/@zoransasko/how-to-collect-data-from-chat-conversation-using-openai-api-1849322735ac
 
 ## Open AI API key
 Obtain your Open AI API key from the [Open AI web page](https://platform.openai.com/api-keys).
