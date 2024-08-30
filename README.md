@@ -1,0 +1,41 @@
+# Source code of article 'Invoking the functions from Chat GPT Model'
+
+## Open AI API key
+Obtain your Open AI API key from the [Open AI web page](https://platform.openai.com/api-keys).
+
+## Project setup
+Create and activate a virtual environment by invoking the following command:
+```
+python -m venv venv
+```
+activate virtual environment by invoking:
+```
+source venv/bin/activate
+```
+and install all required packages by invoking:
+```
+pip install -r requirements.txt
+```
+
+## Environment variables
+Create your own `.env` file, using the `.env-example` as guidance and add OpenAI API key:
+```
+OPENAI_API_KEY = 'xxx'
+```
+
+
+## Running the project
+
+To run the project, run:
+```
+python main.py
+```
+and you'll be able to see the application running in the following link:
+```
+http://0.0.0.0:8000
+```
+In order to start conversation you should write:
+```
+I want to order product
+```
+and when product name, user name and email are collected, in Python debug log they are printed out.
