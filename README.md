@@ -6,7 +6,7 @@ This project is sample application that demonstrates how we can collect data (pr
 
 It's a source code for the following article on the medium:
 
-- https://medium.com/@zoransasko/how-to-collect-data-from-chat-conversation-using-openai-api-1849322735ac
+- https://zoransasko.medium.com/how-to-collect-user-data-from-chat-conversation-using-openai-api-1849322735ac
 
 ## Open AI API key
 Obtain your Open AI API key from the [Open AI web page](https://platform.openai.com/api-keys).
