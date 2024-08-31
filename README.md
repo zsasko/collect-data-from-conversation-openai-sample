@@ -1,6 +1,6 @@
 # How to collect data from chat conversation using OpenAI API
 
-This project is sample application that demonstrates amazon product web page scarping using NodeJs.
+This project is sample application that demonstrates how we can collect data (product name, user name and email) from chat conversation using OpenAI API.
 
 ![](https://cdn-images-1.medium.com/max/800/1*-4OTiVjaQQjTkcFv_70OoQ.png)
 
