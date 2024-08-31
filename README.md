@@ -20,6 +20,11 @@ activate virtual environment by invoking:
 ```
 source venv/bin/activate
 ```
+or 
+```
+venv\Scripts\activate
+```
+(if your are using Windows.)
 and install all required packages by invoking:
 ```
 pip install -r requirements.txt
@@ -34,7 +39,7 @@ OPENAI_API_KEY = 'xxx'
 
 ## Running the project
 
-To run the project, run:
+For running the project, write:
 ```
 python main.py
 ```
@@ -46,4 +51,4 @@ In order to start conversation you should write:
 ```
 I want to order product
 ```
-and when product name, user name and email are collected, in Python debug log they are printed out.
+and when product name, user name and email are collected, in Python debug log you'll see them printed out.
