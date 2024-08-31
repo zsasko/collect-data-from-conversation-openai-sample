@@ -24,8 +24,7 @@ or
 ```
 venv\Scripts\activate
 ```
-(if your are using Windows.)
-and install all required packages by invoking:
+(if your are using Windows) and install all required packages by invoking:
 ```
 pip install -r requirements.txt
 ```
