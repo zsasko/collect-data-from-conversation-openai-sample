@@ -147,8 +147,6 @@ async def get_ai_response(message: str):
             "content": second_response.choices[0].message.content,
         }
 
-        print(f"second content {second_response_json}")
-
         conversation_history.clear()
 
         yield json.dumps(second_response_json)
